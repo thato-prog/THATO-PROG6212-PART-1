@@ -38,7 +38,7 @@ Each table includes primary and foreign keys to maintain referential integrity.
 
 ---
 
-## 🌐 API Overview
+## API Overview
 All endpoints follow REST conventions and start with `/api/`.
 
 - **POST** `/api/auth/register` → Register a new contestant.
