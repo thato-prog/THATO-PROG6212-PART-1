@@ -19,7 +19,7 @@ The system supports:
 - Registration: Contestants register for events and view their enrolments.
 - Results: Publicly accessible race results per event.
 
----
+
 
 ## Database Schema Summary
 Each table includes primary and foreign keys to maintain referential integrity.
