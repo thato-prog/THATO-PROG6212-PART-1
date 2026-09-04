@@ -4,7 +4,6 @@
 ## Project Overview
 RaceDay is a web-based event management system designed to streamline marathon and race organisation. It enables organisers to create events, define categories and routes, track weather conditions, and manage contestant registrations and results. Contestants can register, view event details, and check outcomes after races.
 
-
 ## System Components
 - **ERD**: Defines entities and relationships between organisers, events, categories, routes, weather, contestants, and registrations.
 - **SQL Database Script**: Creates all tables, constraints, and inserts sample data for testing.
