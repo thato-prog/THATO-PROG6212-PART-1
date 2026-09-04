@@ -30,6 +30,7 @@ Each table includes primary and foreign keys to maintain referential integrity.
 - **Contestant**: Stores participant details.
 - **Registration**: Connects contestants to events with status and date.
 
+
 ## API Overview
 All endpoints follow REST conventions and start with `/api/`.
 
