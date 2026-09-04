@@ -10,7 +10,6 @@ RaceDay is a web-based event management system designed to streamline marathon a
 - **API Endpoint Plan**: Lists all backend endpoints for authentication, event management, registration, and results retrieval.
 - **Documentation Folder (`/docs`)**: Contains the ERD diagram, API plan, SQL script, and README in PDF or Markdown format.
 
-
 ## Functional Requirements
 The system supports:
 - Authentication: Register and login endpoints for contestants.
