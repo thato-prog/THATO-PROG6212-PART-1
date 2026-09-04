@@ -1,12 +1,12 @@
 # THATO-PROG6212-PART-1
 # RaceDay System — README
 
-## 📘 Project Overview
+## Project Overview
 RaceDay is a web-based event management system designed to streamline marathon and race organisation. It enables organisers to create events, define categories and routes, track weather conditions, and manage contestant registrations and results. Contestants can register, view event details, and check outcomes after races.
 
 ---
 
-## 🧩 System Components
+## System Components
 - **ERD**: Defines entities and relationships between organisers, events, categories, routes, weather, contestants, and registrations.
 - **SQL Database Script**: Creates all tables, constraints, and inserts sample data for testing.
 - **API Endpoint Plan**: Lists all backend endpoints for authentication, event management, registration, and results retrieval.
