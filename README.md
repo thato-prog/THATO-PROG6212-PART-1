@@ -43,7 +43,6 @@ All endpoints follow REST conventions and start with `/api/`.
 - **GET** `/api/weather/{eventId}` → Retrieve weather conditions for an event.
 
 
-
 ## Testing Instructions
 1. Run the SQL script in **SQL Server Management Studio (SSMS)**.
 2. Verify table creation and sample inserts using:
