@@ -14,7 +14,7 @@ RaceDay is a web-based event management system designed to streamline marathon a
 
 ---
 
-## 🧠 Functional Requirements
+## Functional Requirements
 The system supports:
 - Authentication: Register and login endpoints for contestants.
 - Event Management: Organisers can create, update, and view events.
