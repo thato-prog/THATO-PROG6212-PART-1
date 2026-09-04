@@ -49,3 +49,5 @@ All endpoints follow REST conventions and start with `/api/`.
    SELECT * FROM Event;
    SELECT * FROM Registration;
 
+## YouTube Link:
+https://youtu.be/_Ma0rZBIMjA
