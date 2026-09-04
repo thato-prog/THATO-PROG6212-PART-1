@@ -25,7 +25,7 @@ The system supports:
 
 ---
 
-## 🗄️ Database Schema Summary
+## Database Schema Summary
 Each table includes primary and foreign keys to maintain referential integrity.
 
 - **Organiser**: Stores organiser details.
